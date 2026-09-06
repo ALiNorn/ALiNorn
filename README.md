@@ -20,3 +20,16 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALiNorn/ALiNorn/refs/heads/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ALiNorn/ALiNorn/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture> 
+
+
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api?username=ALiNorn&locale=cn&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <!-- light mode -->
+  <img src="https://github-stats-extended.vercel.app/api?username=ALiNorn&locale=cn&show_icons=true" />
+</picture>
+
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ALiNorn&stats_format=bytes)
