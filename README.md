@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=ALiNorn&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%" />
 
-<img src="https://raw.githubusercontent.com/ALiNorn/Hello.svg" />
+<img src="https://raw.githubusercontent.com/ALiNorn/ALiNorn/refs/heads/main/Hello.svg" />
 
 <a href="https://github.com/ALiNorn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://alinweb.netlify.app"><img src="https://img.shields.io/badge/Blog-7BE38D?style=for-the-badge&logo=blogger&logoColor=white" /></a>
